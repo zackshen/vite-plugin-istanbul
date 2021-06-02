@@ -1,7 +1,7 @@
 {
-  "name": "vite-plugin-istanbul",
+  "name": "vite-plugin-istanbul-fix",
   "version": "2.1.1",
-  "author": "iFaxity (christian@faxity.se)",
+  "author": "Zack.Shen (zackshen0526@gmail.com)",
   "license": "MIT",
   "module": "./dist/index.js",
   "main": "./dist/index.js",
@@ -13,13 +13,13 @@
     "prepublishOnly": "npm run build",
     "build": "tsc"
   },
-  "homepage": "https://github.com/ifaxity/vite-plugin-istanbul",
+  "homepage": "https://github.com/zackshen/vite-plugin-istanbul",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ifaxity/vite-plugin-istanbul.git"
+    "url": "https://github.com/zackshen/vite-plugin-istanbul"
   },
   "bugs": {
-    "url": "https://github.com/ifaxity/vite-plugin-istanbul/issues"
+    "url": "https://github.com/zackshen/vite-plugin-istanbul/issues"
   },
   "keywords": [
     "vite",
