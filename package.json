@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-istanbul-fix",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "author": "Zack.Shen (zackshen0526@gmail.com)",
   "license": "MIT",
   "module": "./dist/index.js",
